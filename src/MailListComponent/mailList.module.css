@@ -1,0 +1,10 @@
+.overallist{
+    width: 25%;
+    height: 99vh;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: #fff;
+    border-right: 0.5px solid rgba(170, 170, 170, 0.322);
+}

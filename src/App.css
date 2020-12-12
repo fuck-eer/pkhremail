@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.layout{
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: stretch;
+  align-items: center;
+}
+
+
+
+
+
+

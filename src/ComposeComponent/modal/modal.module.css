@@ -1,0 +1,28 @@
+.cont{
+    margin: 0;
+    bottom: 1%;
+    right:0;
+    position: absolute;
+    z-index: 99;
+    display: flex;
+    width: 20%;
+    height: 30vh;
+    border-radius: 10px;
+    justify-content: space-between;
+    box-shadow: 0px 0px 30px rgba(66, 65, 65, 0.315);
+    border: 2px solid rgba(197, 197, 197, 0.438);
+    background-color: #eee;
+    flex-flow: column nowrap;
+    padding: 20px;
+
+}
+
+.cross{
+    cursor: pointer;
+    position:absolute;
+    top:0;
+text-align: left;
+    font-weight: 600;
+   
+
+}

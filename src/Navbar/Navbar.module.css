@@ -1,0 +1,20 @@
+.head{
+
+    padding: 4px;
+    /* position: fixed; */
+    top:0;
+    left:0;
+    width: 15%;
+    height: 99vh;
+    background-color: #eee;
+    /* border-right: 2px solid #ddd; */
+}
+
+.navi{
+    margin-top: 90px ;
+    /* background-color: aqua; */
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+}

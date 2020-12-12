@@ -1,0 +1,11 @@
+.card{
+    margin: 2px auto;
+    width: 80%;
+   padding: 0 30px;
+    /* border: 1px solid rgb(122, 121, 121); */
+    border-radius: 7px;
+    
+}
+.card:hover{
+    background-color: #eee;
+}
